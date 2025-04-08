@@ -1,0 +1,9 @@
+CMakeUserPresets.json
+*.csv
+*.json
+.build
+bin
+docs
+Doxyfile
+*.geany
+var

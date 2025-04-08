@@ -1,0 +1,6 @@
+missingInclude
+unusedFunction
+unmatchedSuppression
+variableScope
+missingIncludeSystem
+*:src/tests/bench.cpp
