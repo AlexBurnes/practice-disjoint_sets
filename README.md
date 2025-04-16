@@ -6,14 +6,15 @@ Searching of non-intersected groups of source files by list of destination files
 
 Aleksey.Ozhigov<AlexBurnes@gmail.com>
 
+## Task
+
+Implement an algorithm in methods of Grouping class which bodies marked with 'FIXME implement' comment, run tests, run benchmarks on different container libraries. 
+Unit tests and descriptions for the declarations of the Grouping class in the header file will help in the implementation.
+See example how to write tests and benchmarks at [Sort Keys Example](git@github.com:AlexBurnes/practice-sort_keys.git)
+
 ## Version
 
 0.1.0
-
-## Task
-
-Implement then algorithm in the grouping.cpp file, run tests, run benchmarks on different container libraries. 
-See working example at git@github.com:AlexBurnes/practice-sort_keys.git
 
 ## Change log
 
